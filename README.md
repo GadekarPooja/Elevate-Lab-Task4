@@ -9,6 +9,7 @@ It helps business stakeholders quickly understand key financial metrics and tren
 1. KPIs Card :
 
 You created KPI Cards that show important financial values.
+
 Total Units Sold: 1.13M
 Total Gross Sales: 127.93M
 Total Sales: 118.73M
@@ -42,6 +43,7 @@ It highlights.Top-performing countries (e.g., Mexico, Germany)
 Regions needing improvementUseful for geographic and market expansion analysis.
 
 5.Profit by Segment :
+
 This chart shows which customer segments generate the most profit.
 High-profit segments.Low-profit segmentts.
 Useful for customer targeting and marketing strategy.
@@ -55,7 +57,7 @@ Seasonal patterns
 High and low months
 Supports forecasting and decision-making.
 
-7. Sales by Segment (PieChart)
+7. Sales by Segment :
 
 This chart shows the percentage share of each segment.
 It helps understand to Segment contribution to salesMarket distribution
