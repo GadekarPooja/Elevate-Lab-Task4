@@ -20,22 +20,23 @@ Total Profit: 16.89M
 
 These cards give a quick overview of business performance at a glance.
 
-2. Slicers :
-You added slicers to make the dashboard interactive
+2. Slicers :You added slicers to make the dashboard interactive
 
 Year
+
 Month
+
 Product
+
 Country
+
 Segment
 
 These allow users to filter the entire report and analyze specific periods or categories.
 
 3. Sales by Product :
 
-This chart compares the sales of all products.
-It helps identify:
-Best-selling products (e.g., Paseo).Low-performing products
+This chart compares the sales of all products.It helps identify a Best-selling products (e.g., Paseo).Low-performing products
 It is helpful for product strategy and inventory decisions.
 
 
