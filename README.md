@@ -11,8 +11,11 @@ It helps business stakeholders quickly understand key financial metrics and tren
 You created KPI Cards that show important financial values.
 
 Total Units Sold: 1.13M
+
 Total Gross Sales: 127.93M
+
 Total Sales: 118.73M
+
 Total Profit: 16.89M
 
 These cards give a quick overview of business performance at a glance.
