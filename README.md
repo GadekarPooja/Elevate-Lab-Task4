@@ -1,12 +1,14 @@
 # Elevate-Lab-Task4
 Dashboard Design
 
- Financial Performance Dashboard
+ Financial  Dashboard
 
 This dashboard provides a complete view of the company’s sales, profit, and segment performance.
 It helps business stakeholders quickly understand key financial metrics and trends.
 
-1. KPIs CardTop :You created KPI Cards that show important financial values.
+1. KPIs CardTop :
+
+You created KPI Cards that show important financial values.
 Total Units Sold: 1.13M
 Total Gross Sales: 127.93M
 Total Sales: 118.73M
@@ -14,7 +16,8 @@ Total Profit: 16.89M
 
 These cards give a quick overview of business performance at a glance.
 
-2. Slicers :You added slicers to make the dashboard interactive
+2. Slicers :Y
+You added slicers to make the dashboard interactive
 
 Year
 Month
@@ -24,13 +27,16 @@ Segment
 
 These allow users to filter the entire report and analyze specific periods or categories.
 
-3. Sales by Product (Bar Chart):This chart compares the sales of all products.
+3. Sales by Product (Bar Chart):
+
+This chart compares the sales of all products.
 It helps identify:
 Best-selling products (e.g., Paseo).Low-performing products
 It is helpful for product strategy and inventory decisions.
 
 
 4.Sales by Country (Bar Chart):
+
 This visual shows sales performance across different countries.
 It highlights.Top-performing countries (e.g., Mexico, Germany)
 Regions needing improvementUseful for geographic and market expansion analysis.
