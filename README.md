@@ -20,7 +20,9 @@ Total Profit: 16.89M
 
 These cards give a quick overview of business performance at a glance.
 
-2. Slicers :You added slicers to make the dashboard interactive
+2. Slicers :
+   
+   You added slicers to make the dashboard interactive
 
 Year
 
